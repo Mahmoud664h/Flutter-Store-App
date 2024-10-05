@@ -29,5 +29,5 @@ This app fetches data from the [Fake Store API](https://fakestoreapi.com) for pr
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/flutter_store_app.git
+   git clone https://github.com/Mahmoud664h/flutter_store_app.git
    ```
